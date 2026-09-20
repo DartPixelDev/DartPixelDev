@@ -8,9 +8,6 @@
 
 ### Backend Developer • Java • Python • APIs • Databases
 
-<img src="https://komarev.com/ghpvc/?username=DartPixelDev&label=Profile%20Views&style=flat-square&color=2563EB" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/DartPixelDev?label=Followers&style=flat-square&logo=github" alt="GitHub Followers"/>
-
 </div>
 
 ---
@@ -101,30 +98,6 @@ height="180"
 src="https://streak-stats.demolab.com?user=DartPixelDev&theme=github-dark-blue&hide_border=true"
 alt="DartPixelDev GitHub Streak"
 />
-
-</div>
-
----
-
-## Commit Hunter
-
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/DartPixelDev/DartPixelDev/output/github-contribution-grid-snake-dark.svg"
-  />
-
-<source
- media="(prefers-color-scheme: light)"
- srcset="https://raw.githubusercontent.com/DartPixelDev/DartPixelDev/output/github-contribution-grid-snake.svg"
-/>
-
-<img
- alt="DartPixelDev Contribution Snake"
- src="https://raw.githubusercontent.com/DartPixelDev/DartPixelDev/output/github-contribution-grid-snake.svg"
-/> </picture>
 
 </div>
 

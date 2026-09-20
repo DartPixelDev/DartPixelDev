@@ -1,22 +1,136 @@
 <div align="center">
 
-<img src="./assets/dartpixeldev-banner.png" width="100%" alt="DartPixelDev Banner"/>
+  <svg width="1400" height="500" viewBox="0 0 1400 500" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="DartPixelDev banner">
+    <defs>
+      <linearGradient id="bg" x1="0" x2="1" y1="0" y2="0">
+        <stop offset="0%" stop-color="#020b1a"/>
+        <stop offset="50%" stop-color="#061627"/>
+        <stop offset="100%" stop-color="#020b1a"/>
+      </linearGradient>
+      <linearGradient id="cyanGlow" x1="0" x2="0" y1="0" y2="1">
+        <stop offset="0%" stop-color="#7ee7ff"/>
+        <stop offset="100%" stop-color="#00d0ff"/>
+      </linearGradient>
+      <linearGradient id="purpleGlow" x1="0" x2="1" y1="0" y2="0">
+        <stop offset="0%" stop-color="#8b5cf6"/>
+        <stop offset="100%" stop-color="#c084fc"/>
+      </linearGradient>
+      <filter id="neon" x="-40%" y="-40%" width="180%" height="180%">
+        <feDropShadow dx="0" dy="0" stdDeviation="3" flood-color="#59d8ff"/>
+        <feDropShadow dx="0" dy="0" stdDeviation="8" flood-color="#59d8ff" flood-opacity="0.8"/>
+      </filter>
+      <filter id="soft" x="-20%" y="-20%" width="140%" height="140%">
+        <feDropShadow dx="0" dy="0" stdDeviation="2" flood-color="#8b5cf6"/>
+      </filter>
+    </defs>
 
-<br/>
-<br/>
+    <rect width="1400" height="500" fill="url(#bg)"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=3000&pause=900&color=36BCF7&center=true&vCenter=true&repeat=true&width=800&lines=Backend+Developer+%7C+Java+%2B+Python;Building+APIs+%26+Reliable+Systems;Spring+Boot+%7C+FastAPI+%7C+SQL;Turning+Ideas+Into+Real+Systems;Code.+Debug.+Learn.+Repeat." alt="Typing SVG" />
+    <g opacity="0.22" fill="#6ee7ff">
+      <rect x="100" y="30" width="90" height="120" fill="none" stroke="#5bd5ff"/>
+      <rect x="1250" y="30" width="90" height="120" fill="none" stroke="#5bd5ff"/>
+      <rect x="95" y="340" width="120" height="120" fill="none" stroke="#5bd5ff"/>
+      <rect x="1185" y="340" width="120" height="120" fill="none" stroke="#5bd5ff"/>
+    </g>
 
-<br/>
+    <g opacity="0.14" fill="#7dd3fc">
+      <rect x="420" y="120" width="18" height="18"/>
+      <rect x="452" y="120" width="18" height="18"/>
+      <rect x="484" y="120" width="18" height="18"/>
+      <rect x="930" y="120" width="18" height="18"/>
+      <rect x="962" y="120" width="18" height="18"/>
+      <rect x="994" y="120" width="18" height="18"/>
+      <rect x="630" y="60" width="8" height="8"/>
+      <rect x="758" y="60" width="8" height="8"/>
+      <rect x="560" y="160" width="8" height="8"/>
+      <rect x="800" y="160" width="8" height="8"/>
+      <rect x="560" y="220" width="8" height="8"/>
+      <rect x="800" y="220" width="8" height="8"/>
+    </g>
 
-<img src="https://img.shields.io/badge/STATUS-BUILDING%20SYSTEMS-00D9FF?style=for-the-badge&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/FOCUS-BACKEND-7C3AED?style=for-the-badge&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/MODE-SIDE%20QUEST-FF6B35?style=for-the-badge&labelColor=0D1117"/>
+    <g opacity="0.7">
+      <g fill="#0a1427" stroke="#1fc6ff" stroke-width="2">
+        <rect x="60" y="50" width="120" height="150" fill="none"/>
+        <rect x="1220" y="50" width="120" height="150" fill="none"/>
+      </g>
 
-<br/><br/>
+      <g fill="#0a1427" stroke="#7b61ff" stroke-width="2">
+        <rect x="60" y="260" width="120" height="140" fill="none"/>
+        <rect x="1220" y="260" width="120" height="140" fill="none"/>
+      </g>
+    </g>
 
-<img src="https://komarev.com/ghpvc/?username=DartPixelDev&label=PROFILE+VIEWS&style=for-the-badge&color=0891B2"/>
-<img src="https://img.shields.io/github/followers/DartPixelDev?label=FOLLOWERS&style=for-the-badge&logo=github&color=7C3AED&labelColor=0D1117"/>
+    <g font-family="monospace" font-weight="700" fill="#7ee7ff" opacity="0.8">
+      <text x="118" y="128" font-size="24" letter-spacing="3">EAT</text>
+      <text x="108" y="162" font-size="24" letter-spacing="3">CODE</text>
+      <text x="95" y="196" font-size="24" letter-spacing="3">HOOP</text>
+      <text x="86" y="230" font-size="24" letter-spacing="3">REPEAT</text>
+
+      <text x="1230" y="128" font-size="24" letter-spacing="3">FROM IDEAS</text>
+      <text x="1230" y="162" font-size="24" letter-spacing="3">TO REAL SYSTEMS</text>
+      <text x="1235" y="208" font-size="18" fill="#7ee7ff">—</text>
+
+      <text x="118" y="420" font-size="24" letter-spacing="3">GOOD</text>
+      <text x="118" y="454" font-size="24" letter-spacing="3">CODE</text>
+      <text x="118" y="488" font-size="24" letter-spacing="3">BETTER</text>
+      <text x="118" y="522" font-size="24" letter-spacing="3">GAMES</text>
+
+      <text x="1220" y="420" font-size="22" letter-spacing="3">SAME</text>
+      <text x="1212" y="454" font-size="22" letter-spacing="3">LOGIC</text>
+      <text x="1216" y="488" font-size="22" letter-spacing="3">DIFFERENT</text>
+      <text x="1218" y="522" font-size="22" letter-spacing="3">GAME</text>
+    </g>
+
+    <g fill="#0f172a" opacity="0.5">
+      <rect x="190" y="340" width="1020" height="8" rx="4"/>
+      <rect x="190" y="345" width="1020" height="4" rx="2" fill="#0e2239"/>
+    </g>
+
+    <g filter="url(#neon)">
+      <text x="700" y="240" text-anchor="middle" font-family="monospace" font-weight="700" font-size="170" fill="#7ee7ff" letter-spacing="-8">DartPixel</text>
+      <text x="700" y="240" text-anchor="middle" font-family="monospace" font-weight="700" font-size="170" fill="#b37cff" letter-spacing="-8" transform="translate(210 0)">Dev</text>
+    </g>
+
+    <g filter="url(#soft)">
+      <text x="700" y="310" text-anchor="middle" font-family="monospace" font-size="36" fill="#dff7ff" letter-spacing="2">Backend Developer • Java • Python • APIs • Databases</text>
+    </g>
+
+    <g transform="translate(400 340)" font-family="monospace" font-size="22" font-weight="600" fill="#dff7ff">
+      <g transform="translate(0 0)">
+        <rect x="0" y="0" width="54" height="54" rx="10" fill="#0f172a" stroke="#7ee7ff"/>
+        <text x="27" y="34" text-anchor="middle" font-size="28">☕</text>
+      </g>
+      <g transform="translate(82 0)">
+        <rect x="0" y="0" width="54" height="54" rx="10" fill="#0f172a" stroke="#7ee7ff"/>
+        <text x="27" y="34" text-anchor="middle" font-size="28">🐍</text>
+      </g>
+      <g transform="translate(164 0)">
+        <rect x="0" y="0" width="54" height="54" rx="10" fill="#0f172a" stroke="#7ee7ff"/>
+        <text x="27" y="34" text-anchor="middle" font-size="28">🗄️</text>
+      </g>
+      <g transform="translate(246 0)">
+        <rect x="0" y="0" width="54" height="54" rx="10" fill="#0f172a" stroke="#7ee7ff"/>
+        <text x="27" y="34" text-anchor="middle" font-size="28">⚙️</text>
+      </g>
+      <g transform="translate(328 0)">
+        <rect x="0" y="0" width="54" height="54" rx="10" fill="#0f172a" stroke="#7ee7ff"/>
+        <text x="27" y="34" text-anchor="middle" font-size="28">🐧</text>
+      </g>
+      <g transform="translate(410 0)">
+        <rect x="0" y="0" width="54" height="54" rx="10" fill="#0f172a" stroke="#7ee7ff"/>
+        <text x="27" y="34" text-anchor="middle" font-size="28">⌨️</text>
+      </g>
+    </g>
+
+    <g fill="#2dd4bf" font-family="monospace" font-size="14" opacity="0.9">
+      <text x="90" y="316">java</text>
+      <text x="286" y="316">python</text>
+      <text x="482" y="316">postgres</text>
+      <text x="700" y="316">docker</text>
+      <text x="890" y="316">linux</text>
+      <text x="1060" y="316">api</text>
+    </g>
+  </svg>
 
 </div>
 
@@ -219,7 +333,7 @@ SIDE_QUESTS:
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=DartPixelDev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=7C3AED&text_color=C9D1D9&include_all_commits=true&rank_icon=github"
+    srcset="https://github-readme-stats.vercel.app/api?username=DartPixelDev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=7C3AED&text_color=C9D1D9&include_all_commits=true&count_private=true"
     media="(prefers-color-scheme: dark)"
   />
   <img
@@ -259,25 +373,26 @@ SIDE_QUESTS:
 <div align="center">
 
 <picture>
-
-<source
- media="(prefers-color-scheme: dark)"
- srcset="https://raw.githubusercontent.com/DartPixelDev/DartPixelDev/output/github-contribution-grid-snake-dark.svg"
-/>
-
-<source
- media="(prefers-color-scheme: light)"
- srcset="https://raw.githubusercontent.com/DartPixelDev/DartPixelDev/output/github-contribution-grid-snake.svg"
-/>
-
-<img
- alt="DartPixelDev Contribution Snake"
- src="https://raw.githubusercontent.com/DartPixelDev/DartPixelDev/output/github-contribution-grid-snake.svg"
-/>
-
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/DartPixelDev/DartPixelDev/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/DartPixelDev/DartPixelDev/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="DartPixelDev Contribution Snake"
+    width="100%"
+    src="https://raw.githubusercontent.com/DartPixelDev/DartPixelDev/output/github-contribution-grid-snake.svg"
+  />
 </picture>
 
 </div>
+
+<p align="center">
+  <sub>Grinding commits, shipping systems, and leveling up.</sub>
+</p>
 
 ---
 
@@ -397,20 +512,29 @@ Programming ───────────────●
 
 # 📡 System Status
 
-```console
-┌─[ DartPixelDev System Monitor ]────────────────┐
-│                                                │
-│ Backend Service          ● ONLINE              │
-│ Java Runtime             ● RUNNING             │
-│ Python Environment       ● RUNNING             │
-│ PostgreSQL               ● CONNECTED           │
-│ Docker Engine            ● LEARNING            │
-│ Bug Generator            ● ALWAYS ONLINE       │
-│ Coffee Dependency        ● CRITICAL            │
-│                                                │
-│ Current Process: LEVELING_UP.exe                │
-└────────────────────────────────────────────────┘
+<div align="center">
+
+<div style="display:inline-block; background:#0b1220; border:1px solid #1e3a5f; border-radius:14px; padding:20px; box-shadow:0 0 18px rgba(59,130,246,0.12);">
+
+```text
+┌─[ DartPixelDev System Monitor ]────────────────────┐
+│                                                    │
+│ Backend Service          ● ONLINE                   │
+│ Java Runtime             ● RUNNING                  │
+│ Python Environment       ● RUNNING                  │
+│ PostgreSQL               ● CONNECTED                │
+│ Docker Engine            ● LEARNING                 │
+│ API Stack                ● BUILDING                 │
+│ Bug Generator            ● ALWAYS ONLINE            │
+│ Coffee Dependency        ● CRITICAL                 │
+│                                                    │
+│ Current Process: LEVELING_UP.exe                   │
+└────────────────────────────────────────────────────┘
 ```
+
+</div>
+
+</div>
 
 ---
 
@@ -465,7 +589,7 @@ maintainable and ready to evolve."
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=1000&color=7C3AED&center=true&vCenter=true&repeat=true&width=700&lines=BUILD+%E2%86%92+DEBUG+%E2%86%92+LEARN+%E2%86%92+REPEAT;GOOD+CODE.+BETTER+SYSTEMS.;SAME+LOGIC.+DIFFERENT+GAME.;DartPixelDev.exe+is+still+running..." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=1000&color=7C3AED&center=true&vCenter=true&repeat=true&width=700&lines=BUILD+%E2%86%92+DEBUG+%E2%86%92+LEARN+%E2%86%92+SHIP" alt="Build Debug Learn Ship" />
 
 <br/>
 

@@ -83,15 +83,23 @@ Backend Development
 <div align="center">
 
 <img
- height="180"
- src="https://github-readme-stats.vercel.app/api?username=DartPixelDev&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&rank_icon=github"
- alt="DartPixelDev GitHub Stats"
+height="180"
+src="https://github-readme-stats.vercel.app/api?username=DartPixelDev&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&rank_icon=github"
+alt="DartPixelDev GitHub Stats"
 />
 
 <img
- height="180"
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=DartPixelDev&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
- alt="DartPixelDev Top Languages"
+height="180"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=DartPixelDev&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
+alt="DartPixelDev Top Languages"
+/>
+
+<br/><br/>
+
+<img
+height="180"
+src="https://streak-stats.demolab.com?user=DartPixelDev&theme=github-dark-blue&hide_border=true"
+alt="DartPixelDev GitHub Streak"
 />
 
 </div>

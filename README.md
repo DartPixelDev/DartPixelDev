@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/dartpixeldev-banner.png" width="100%" alt="DartPixelDev Banner"/>
+<img src="DartPixelDev Banner.png" width="100%" alt="DartPixelDev Banner"/>
 
 <br/><br/>
 
